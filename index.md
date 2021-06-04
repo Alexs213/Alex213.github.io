@@ -1,9 +1,6 @@
 # Project-7
 ![Tech](project7.jpg)
 
-
-[Project 7](https://Alex213.github.io/Project-7)
-
 Labs
 * [Lab-01](https://Alexs213.github.io/Lab-01)
   <br>Learn how to use Terminal
