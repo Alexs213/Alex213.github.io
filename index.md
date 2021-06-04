@@ -25,4 +25,4 @@ Projects
 * [Project-04](https://github.com/Alexs213/cit281-p4.git)
 * [Project-05](https://github.com/Alexs213/cit281-p5.git)
 * [Project-06](https://github.com/Alexs213/cit281-p6.git)
-* [Project-07](https://Alex213.github.io/Project-7)
+* [Project-07](https://Alexs213.github.io/Project-7)
