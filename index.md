@@ -1,5 +1,9 @@
 # Project-7
 ![Tech](project7.jpg)
+
+
+[Project 7](https://Alex213.github.io/Project-7)
+
 Labs
 * [Lab-01](https://github.com/Alexs213/Lab-01.git)
   <br>Learn how to use Terminal
@@ -21,4 +25,4 @@ Projects
 * [Project-04](https://github.com/Alexs213/cit281-p4.git)
 * [Project-05](https://github.com/Alexs213/cit281-p5.git)
 * [Project-06](https://github.com/Alexs213/cit281-p6.git)
-* [Project-07](https://github.com/Alexs213/cit281-p7.git)
+* [Project-07](https://Alex213.github.io/Project-7)
